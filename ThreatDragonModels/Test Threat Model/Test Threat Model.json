@@ -12,6 +12,12 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "diagramType": "STRIDE",
         "id": 0
+      },
+      {
+        "title": "Copy of first diagram",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 1
       }
     ],
     "reviewer": "Test2"
