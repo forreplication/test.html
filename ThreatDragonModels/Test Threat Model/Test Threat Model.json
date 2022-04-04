@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "Test",
+    "description": "This is just a test for now"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Test2"
+  }
+}
